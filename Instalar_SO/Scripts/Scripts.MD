@@ -27,3 +27,6 @@ VBoxManage modifyvm "nombre maquina virtual" --cpu-profile "Intel Core i7-6700K"
 
 4. Reemplaza "nombre maquina virtual" por el nombre de tu máquina virtual en VirtualBox.
 5. Ejecuta el código en CMD para aplicar la configuración necesaria.
+
+# Cambiar Resolución Desde Terminal MacOS:
+Sudo /Library/Application\ Support/VMware\ Tools/vmware-resolutionset 1920 1080
