@@ -14,4 +14,4 @@ Este repositorio proporciona los recursos necesarios para instalar **MacOS Big S
 
 - [XCode 12.5.1](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_12.5.1/Xcode_12.5.1.xip): Xcode es un conjunto de herramientas de desarrollo de software para MacOS. Esta versión es necesaria para desarrollar aplicaciones para MacOS Big Sur.
 
-¡Disfruta de tu experiencia con MacOS Big Sur en VirtualBox!
+
