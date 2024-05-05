@@ -10,7 +10,7 @@ Este repositorio proporciona los recursos necesarios para instalar **MacOS Big S
 
 - [Herramientas de Virtual Machine (VM Tools)](vmtools.zip): Las VM Tools son un conjunto de utilidades que mejoran la integración entre el sistema operativo huésped (MacOS Big Sur) y el sistema operativo anfitrión (VirtualBox).
 
-- [Scripts para instalación](Scripts/Scripts.MD): Este archivo contiene scripts útiles para realizar la instalación y configuración de MacOS Big Sur en VirtualBox de manera automática.
+- [Scripts para instalación](Scripts/README.MD): Este archivo contiene scripts útiles para realizar la instalación y configuración de MacOS Big Sur en VirtualBox de manera automática.
 
 - [XCode 12.5.1](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_12.5.1/Xcode_12.5.1.xip): Xcode es un conjunto de herramientas de desarrollo de software para MacOS. Esta versión es necesaria para desarrollar aplicaciones para MacOS Big Sur.
 
