@@ -3,7 +3,7 @@
 Este repositorio proporciona los recursos necesarios para instalar **MacOS Big Sur** en VirtualBox.
 
 - [Video para instalar MacOS](https://youtu.be/pnuLc0mc06Q?si=_mRcR4xRpnH1Fquo)
-- [Video para instalar xCpde](https://youtu.be/ImXnJKE0Wrg?si=Q9PVPkcjo_gkAMeW)
+- [Video para instalar xCode](https://youtu.be/ImXnJKE0Wrg?si=Q9PVPkcjo_gkAMeW)
   
 ## Descargas
 
