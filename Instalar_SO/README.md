@@ -2,6 +2,8 @@
 
 Este repositorio proporciona los recursos necesarios para instalar **MacOS Big Sur** en VirtualBox.
 
+- [Video para instalar MacOS](https://youtu.be/pnuLc0mc06Q?si=_mRcR4xRpnH1Fquo)
+  
 ## Descargas
 
 - [Extension Pack para VirtualBox](Oracle_VM_VirtualBox_Extension_Pack-7.0.16.vbox-extpack): El Extension Pack de VirtualBox proporciona funcionalidades adicionales, como soporte para dispositivos USB 2.0 y 3.0, RDP, y más.
