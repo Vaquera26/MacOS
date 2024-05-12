@@ -1,6 +1,6 @@
 # Instalación de MacOS Big Sur en VirtualBox
 
-Este repositorio proporciona los recursos necesarios para instalar **MacOS Big Sur** en VirtualBox.
+Este repositorio proporciona los recursos necesarios para instalar **MacOS Big Sur** y Xcode en VirtualBox, ambos son importantes tener.
 
 - [Video para instalar MacOS](https://youtu.be/pnuLc0mc06Q?si=_mRcR4xRpnH1Fquo)
 - [Video para instalar xCode](https://youtu.be/ImXnJKE0Wrg?si=Q9PVPkcjo_gkAMeW)
